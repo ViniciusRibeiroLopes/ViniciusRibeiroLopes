@@ -4,10 +4,10 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Vinixy12&show_icons=true&count_private=true&hide_border=true&title_color=6EACDA&icon_color=6EACDA&text_color=c9d1d9&bg_color=0d1117" alt="Vinícius Ribeiro Lopes github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinixy12&layout=compact&hide_border=true&title_color=6EACDA&text_color=6EACDA&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusRibeiroLopes&layout=compact&hide_border=true&title_color=6EACDA&text_color=6EACDA&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vinixy12&bg_color=000000&color=6EACDA&line=6EACDA&point=6EACDA&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ViniciusRibeiroLopes&bg_color=000000&color=6EACDA&line=6EACDA&point=6EACDA&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Social Media:
 <div align="left">  
