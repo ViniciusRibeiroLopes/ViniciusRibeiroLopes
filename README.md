@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6EACDA&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Vinícius+Ribeiro+Lopes;I'm+16+years+old;I+am+from+Sorocaba,+SP;I+study+analysis+and+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Vinixy12&show_icons=true&count_private=true&hide_border=true&title_color=6EACDA&icon_color=6EACDA&text_color=c9d1d9&bg_color=0d1117" alt="Vinícius Ribeiro Lopes github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ViniciusRibeiroLopes&show_icons=true&count_private=true&hide_border=true&title_color=6EACDA&icon_color=6EACDA&text_color=c9d1d9&bg_color=0d1117" alt="Vinícius Ribeiro Lopes github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusRibeiroLopes&layout=compact&hide_border=true&title_color=6EACDA&text_color=6EACDA&bg_color=0d1117" />
 </div>
 
